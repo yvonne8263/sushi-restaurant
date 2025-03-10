@@ -606,8 +606,8 @@ section{
     .review .box-container .box{
         /* flax-direction: column; */
         flex: 1 1 auto;
-        padding-bottom: 20px;
-        margin: 20px;
+        padding-top: 50px;
+        margin: 30px;
     }
 
     /* 第七區 */
